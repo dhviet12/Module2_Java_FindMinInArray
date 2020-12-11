@@ -1,4 +1,3 @@
-import java.net.BindException;
 
 public class findMinInArray {
     public static int minValue(int[] array){
